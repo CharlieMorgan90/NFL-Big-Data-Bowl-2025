@@ -108,10 +108,10 @@ I created bar plots showing how offensive performance changes across the full ra
 
 These visualizations reveal an upward trend in offensive success as the confusion score increases supporting the validity of the model-generated score.
 
-![](Visuals/Bar%Chart.jpeg)
+![](Visuals/Bar%20Chart.jpeg)
 _(The last 6 bars are greater than every other bar with the exception of one)_
 
-![](Visuals/Bar%Chart%2.jpeg)
+![](Visuals/Bar%20Chart%202.jpeg)
 _(The last 6 bars have a positive epa meaning the play benefited the offense)_
 
 While the logistic regression model achieved modest classification performance, its true value lies in producing a confusion score that correlates with defensive confusion or offensive success. This validates my feature engineering, labeling process, and modeling approach. Future iterations could explore ensemble methods or unsupervised clustering, but for interpretability and project goals, this model is a solid foundation. Moving forward, I could try using weights based on our analysis without the model's help and see if we can achieve better results. It would also be interesting to investigate outlier bins in the graphs above.
