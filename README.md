@@ -9,7 +9,7 @@ Using these features, I trained a logistic regression model to predict whether a
 
 Once I had a reliable Confusion Score, I investigated which features most strongly correlated with defensive confusion, which correlated with defensive success, and which showed no strong relationship. I also analyzed the types of plays or offensive behaviors that were most likely to trigger confusion in the defense.
 
-**Engineered Features:** _(Please see the document titled Engineered Features for detailed methodology)_
+**Engineered Features:** _(Please see the document titled feature_analysis for detailed methodology)_
 
 - maxDistance: Maximum distance between a defender and their assigned offensive player
 - averageDistance: Average distance between defenders and receivers
@@ -26,7 +26,7 @@ Once I had a reliable Confusion Score, I investigated which features most strong
 - teamTotalDistance: Total combined distance traveled by all defenders
 - teamAverageSpeed: Average speed across all defenders during the pre-snap period
 
-**Exploratory Feature Analysis:** _(This is a high-level summary. See the Feature Analysis document for full details)_
+**Exploratory Feature Analysis:** _(This is a high-level summary. See the feature_analysis document for full details)_
 
 Features Positively Correlated With Confusion
 
