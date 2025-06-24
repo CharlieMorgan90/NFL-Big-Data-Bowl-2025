@@ -1,6 +1,9 @@
 # NFL-Big-Data-Bowl-2025
 I developed a data-driven Confusion Score to quantify pre-snap defensive disorganization in the NFL using tracking data, engineered features, and a logistic regression model.
 
+> **Note:** This repository highlights only **my individual contributions** to our group project.  
+> The full project and source code can be found here: [NFL Data Bowl - Full Repository](https://github.com/NFL-Data-Bowl/nfl-data-bowl.git)
+
 **Problem Statement:**
 
 **Pre-snap defensive confusion** occurs when defenders exhibit signs of miscommunication, hesitation, or last-second adjustments before the snap, often leading to coverage breakdowns or poor positioning. **My goal** was to identify and quantify these moments using tracking data. I analyzed defensive player movements for erratic behavior, such as frequent direction changes, crossing paths, late alignments, and sudden shifts in response to offensive motion.
