@@ -1,5 +1,7 @@
 Feature Extraction:
 
+Feature Extraction code can be found in the code folder along with an example play.
+
 **Feature Extraction for Late Defensive Movements, Nearest Defender at the Snap, and Through-Snap Movement** was relatively straightforward compared to the more advanced logic required for detecting **Defensive Reactions to Offensive Motion**. I’ll briefly summarize the first three before diving deeper into the last.
 
 1. **Late Defensive Movements**: A player was flagged as making a late movement if they changed position within the final second before the snap, exceeding both a distance and velocity threshold. This captured last-second shifts or hesitation.
