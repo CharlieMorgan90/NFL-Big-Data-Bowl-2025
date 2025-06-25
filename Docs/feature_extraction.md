@@ -1,6 +1,6 @@
 Feature Extraction:
 
-Feature Extraction code can be found in the code folder along with an example play.
+Feature Extraction code can be found in the code folder. Data must be downloaded from NFL Big Data Bowl 2025 Kaggle due to file size.
 
 **Feature Extraction for Late Defensive Movements, Nearest Defender at the Snap, and Through-Snap Movement** was relatively straightforward compared to the more advanced logic required for detecting **Defensive Reactions to Offensive Motion**. I’ll briefly summarize the first three before diving deeper into the last.
 
